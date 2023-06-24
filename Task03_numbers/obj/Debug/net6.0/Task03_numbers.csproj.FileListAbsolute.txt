@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\bin\Debug\net6.0\Task03_numbers.exe
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\bin\Debug\net6.0\Task03_numbers.deps.json
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\bin\Debug\net6.0\Task03_numbers.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\bin\Debug\net6.0\Task03_numbers.dll
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\bin\Debug\net6.0\Task03_numbers.pdb
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.dll
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\refint\Task03_numbers.dll
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.pdb
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\Task03_numbers.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\Task03_numbers\obj\Debug\net6.0\ref\Task03_numbers.dll
