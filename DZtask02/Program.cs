@@ -11,12 +11,19 @@ int max = 0;
 int min = 0;
 
 
-if (a > b) {max = a ; min = b;}
+if (a > b) {max = a ; min = b;
+
+Console.WriteLine(max+" - большее число ");
+Console.WriteLine(min+" - меньшее число ");
+}
+
+else if (a == b) Console.WriteLine("числа равны");
 else
 {
-    max = b ; min = a;
-} 
+    max = b ; min = a; 
 Console.WriteLine(max+" - большее число ");
-
 Console.WriteLine(min+" - меньшее число ");
+
+} 
+
 
