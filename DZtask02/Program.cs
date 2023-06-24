@@ -16,7 +16,7 @@ else
 {
     max = b ; min = a;
 } 
-Console.Write("max = ");
-Console.WriteLine(max);
-Console.Write("min = ");
-Console.WriteLine(min);
+Console.WriteLine(max+" - большее число ");
+
+Console.WriteLine(min+" - меньшее число ");
+
