@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\Task02_dny\bin\Debug\net6.0\Task02_dny.exe
+C:\Users\User\Desktop\SeminarC#\Task02_dny\bin\Debug\net6.0\Task02_dny.deps.json
+C:\Users\User\Desktop\SeminarC#\Task02_dny\bin\Debug\net6.0\Task02_dny.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\Task02_dny\bin\Debug\net6.0\Task02_dny.dll
+C:\Users\User\Desktop\SeminarC#\Task02_dny\bin\Debug\net6.0\Task02_dny.pdb
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.dll
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\refint\Task02_dny.dll
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.pdb
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\Task02_dny.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\Task02_dny\obj\Debug\net6.0\ref\Task02_dny.dll
