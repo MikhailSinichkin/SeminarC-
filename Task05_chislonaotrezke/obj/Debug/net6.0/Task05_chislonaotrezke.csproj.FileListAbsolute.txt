@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\bin\Debug\net6.0\Task05_chislonaotrezke.exe
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\bin\Debug\net6.0\Task05_chislonaotrezke.deps.json
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\bin\Debug\net6.0\Task05_chislonaotrezke.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\bin\Debug\net6.0\Task05_chislonaotrezke.dll
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\bin\Debug\net6.0\Task05_chislonaotrezke.pdb
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.dll
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\refint\Task05_chislonaotrezke.dll
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.pdb
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\Task05_chislonaotrezke.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\Task05_chislonaotrezke\obj\Debug\net6.0\ref\Task05_chislonaotrezke.dll
