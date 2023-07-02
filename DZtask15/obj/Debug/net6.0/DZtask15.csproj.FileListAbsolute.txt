@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\DZtask15\bin\Debug\net6.0\DZtask15.exe
+C:\Users\User\Desktop\SeminarC#\DZtask15\bin\Debug\net6.0\DZtask15.deps.json
+C:\Users\User\Desktop\SeminarC#\DZtask15\bin\Debug\net6.0\DZtask15.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\DZtask15\bin\Debug\net6.0\DZtask15.dll
+C:\Users\User\Desktop\SeminarC#\DZtask15\bin\Debug\net6.0\DZtask15.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.dll
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\refint\DZtask15.dll
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\DZtask15.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\DZtask15\obj\Debug\net6.0\ref\DZtask15.dll
