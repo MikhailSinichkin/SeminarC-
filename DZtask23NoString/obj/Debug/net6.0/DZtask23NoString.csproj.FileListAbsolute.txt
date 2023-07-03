@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\bin\Debug\net6.0\DZtask23NoString.exe
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\bin\Debug\net6.0\DZtask23NoString.deps.json
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\bin\Debug\net6.0\DZtask23NoString.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\bin\Debug\net6.0\DZtask23NoString.dll
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\bin\Debug\net6.0\DZtask23NoString.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.dll
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\refint\DZtask23NoString.dll
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\DZtask23NoString.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\DZtask23NoString\obj\Debug\net6.0\ref\DZtask23NoString.dll
