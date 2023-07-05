@@ -7,26 +7,15 @@
 
 Console.WriteLine("Введите число");
 int Num = Convert.ToInt32(Console.ReadLine());
-int count = 0;
+int count = 1;
 int mult = 0;
-if (Num > 0)
-{
-    while (count < Num + 1)
+
+while (count <= Num )
     {
         mult = count * count * count;
-        count = count + 1;
-        Console.WriteLine($"{mult} ,");
+        count += 1;
+        Console.WriteLine($"{mult} ");
     }
 
-}
-else
-{
-    count = count * (-1);
-    while (count > Num - 1)
-    {
-        mult = count * count * count;
-        count = count - 1;
-        Console.WriteLine($"{mult} ,");
-    }
-}
+
 

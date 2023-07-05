@@ -24,4 +24,5 @@ int b = aX - bX;
 int c = aZ - bZ;
 
 double distance = Math.Sqrt(a * a + b * b + c * c);
-Console.WriteLine(distance);
+double result = Math.Round((distance), 2);
+Console.WriteLine(result);
