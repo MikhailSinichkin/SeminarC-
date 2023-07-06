@@ -1,29 +1,24 @@
 ﻿/*
-Задача 23
-Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
-3 -> 1, 8, 27
-5 -> 1, 8, 27, 64, 125
+Задача на проверку в папке DZtask23NOString . Это я решал для положительных и отрицательных чисел от 0 до N. 
 */
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int number = 0;
+if (n > 0)
 
-string cube(int n)
 {
-    string cube = "0";
-    if (n > 0)
-    {
         for (int i = 1; i <= n; i++)
         {
-            cube = $"{cube} {i * i * i}";
+            number = i * i * i;
+            Console.Write($"{number}  ");
         }
-    }
-    else
-    {
-        for (int i = -1; i >= n; i--)
-        {
-            cube = $"{cube} {i * i * i}";
-        }
-    }
-    return cube;
 }
-Console.Write("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(cube(number));
+else
+{
+    for (int i = -1; i >= n; i--)
+    {
+        number = i * i * i;
+        Console.Write($"{number}  ");
+    }
+}
+
