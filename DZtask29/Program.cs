@@ -16,7 +16,6 @@ int [] getRandomArray(int length, int deviation)
 
 void printArray (int[] arrayToPrint)
 {
-    Console.ForegroundColor = ConsoleColor.Green;
     Console.Write("[");
     for(int i = 0; i < arrayToPrint.Length; i++)
     {
@@ -31,5 +30,5 @@ Console.WriteLine("]");
 }
 
 
-int [] randomArray = getRandomArray(8, 9);
+int [] randomArray = getRandomArray(8, 1000);
 printArray(randomArray);
