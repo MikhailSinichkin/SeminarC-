@@ -4,12 +4,12 @@
 6, 1, 33 -> [6, 1, 33]
 */
 
-int [] getRandomArray(int length, int deviation)
+int [] getRandomArray(int length )
 {
     int [] result = new int [length];
     for(int i = 0; i < length; i++)
     {
-        result[i] = new Random().Next(-deviation, deviation + 1);
+        result[i] = new Random().Next(-100, 100);
     }
     return result;
 }
@@ -30,5 +30,5 @@ Console.WriteLine("]");
 }
 
 
-int [] randomArray = getRandomArray(8, 1000);
+int [] randomArray = getRandomArray(8);
 printArray(randomArray);
