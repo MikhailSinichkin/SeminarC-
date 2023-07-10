@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask41\bin\Debug\net6.0\DZtask41.exe
+C:\Users\User\Desktop\SeminarC#\DZtask41\bin\Debug\net6.0\DZtask41.deps.json
+C:\Users\User\Desktop\SeminarC#\DZtask41\bin\Debug\net6.0\DZtask41.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\DZtask41\bin\Debug\net6.0\DZtask41.dll
+C:\Users\User\Desktop\SeminarC#\DZtask41\bin\Debug\net6.0\DZtask41.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.dll
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\refint\DZtask41.dll
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\DZtask41.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\DZtask41\obj\Debug\net6.0\ref\DZtask41.dll
