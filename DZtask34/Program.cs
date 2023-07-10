@@ -26,13 +26,10 @@ void printArray (int[] arrayToPrint)
         }
     }
 Console.WriteLine("]");
-    Console.ForegroundColor = ConsoleColor.White;
+    
 }
 
-
-
-
-int CalcEventNumbers(int[] randomArray)
+int CalcNumbers(int[] randomArray)
 {
     int count = 0;
     for(int i = 0; i < randomArray.Length; i++)
@@ -46,6 +43,6 @@ int CalcEventNumbers(int[] randomArray)
 int [] randomArray = getRandomArray(5);
 printArray(randomArray);
 
-Console.WriteLine($"\nКол-во четных чисел - {CalcEventNumbers(randomArray)}");
+Console.WriteLine($"\nКол-во четных чисел - {CalcNumbers(randomArray)}");
 
 
