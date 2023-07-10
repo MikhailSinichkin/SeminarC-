@@ -43,6 +43,6 @@ int CalcNumbers(int[] randomArray)
 int [] randomArray = getRandomArray(5);
 printArray(randomArray);
 
-Console.WriteLine($"\nКол-во четных чисел - {CalcNumbers(randomArray)}");
+Console.WriteLine($"Кол-во четных чисел - {CalcNumbers(randomArray)}");
 
 
