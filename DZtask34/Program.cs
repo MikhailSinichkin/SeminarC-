@@ -29,12 +29,12 @@ Console.WriteLine("]");
     
 }
 
-int CalcNumbers(int[] randomArray)
+int CalcNumbers(int[] array)
 {
     int count = 0;
-    for(int i = 0; i < randomArray.Length; i++)
+    for(int i = 0; i < array.Length; i++)
     {
-        if(randomArray[i] % 2 == 0)
+        if(array[i] % 2 == 0)
             count++;
     }
 
