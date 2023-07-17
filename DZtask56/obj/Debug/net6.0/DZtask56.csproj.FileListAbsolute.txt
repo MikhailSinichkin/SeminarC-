@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SeminarC#\DZtask56\bin\Debug\net6.0\DZtask56.exe
+C:\Users\User\Desktop\SeminarC#\DZtask56\bin\Debug\net6.0\DZtask56.deps.json
+C:\Users\User\Desktop\SeminarC#\DZtask56\bin\Debug\net6.0\DZtask56.runtimeconfig.json
+C:\Users\User\Desktop\SeminarC#\DZtask56\bin\Debug\net6.0\DZtask56.dll
+C:\Users\User\Desktop\SeminarC#\DZtask56\bin\Debug\net6.0\DZtask56.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.AssemblyInfo.cs
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.dll
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\refint\DZtask56.dll
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.pdb
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\DZtask56.genruntimeconfig.cache
+C:\Users\User\Desktop\SeminarC#\DZtask56\obj\Debug\net6.0\ref\DZtask56.dll
