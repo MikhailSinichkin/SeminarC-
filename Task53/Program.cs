@@ -24,17 +24,26 @@ int[,] GetRandom2dArray(int rows, int columns, int deviation)
     return result;
 }
 
-void Print2DArray(int[,] matrix)
+void Print2DArray(int[,] arrayToPrint)
 {
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    Console.Write($"[ ]\t");
+    for (int i = 0; i < arrayToPrint.GetLength(1); i++)
     {
-        for (int j = 0; j < matrix.GetLength(1); j++)
+        Console.Write($"[{i}]\t");
+    }
+    Console.WriteLine();
+    for (int i = 0; i < arrayToPrint.GetLength(0); i++)
+    {
+        Console.Write($"[{i}]\t");
+        for (int j = 0; j < arrayToPrint.GetLength(1); j++)
         {
-            Console.Write(matrix[i, j] + " ");
+            Console.Write(arrayToPrint[i, j] + "\t");
         }
         Console.WriteLine();
     }
+
 }
+
 
 void ReversMatrix(int[,] matrix)
 {
