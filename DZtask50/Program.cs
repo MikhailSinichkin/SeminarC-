@@ -73,7 +73,7 @@ else
 {
 Console.WriteLine("Данной позиции не существует в массиве ");
 }
-Console.ResetColor();
+
 
 
 
