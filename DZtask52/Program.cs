@@ -59,10 +59,10 @@ double[] Average(int[,] array)
 
 void PrintAverage(double[] array)
 {
-    Console.Write("   \t");
+    Console.Write("\t");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($" {array[i]} , ");
+        Console.Write($" {array[i]} \t ");
 
     }
     
