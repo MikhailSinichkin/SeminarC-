@@ -8,12 +8,7 @@
 15 18
 */
 
-int[,] matrixA = GetRandom2dArray(2, 3, 5);
-int[,] matrixB = GetRandom2dArray(3, 2, 5);
-Print2DArray(matrixA);
-System.Console.WriteLine();
-Print2DArray(matrixB);
-System.Console.WriteLine();
+
 int[,] GetRandom2dArray(int rows, int columns, int deviation)
 {
     int[,] result = new int[rows, columns];
@@ -44,6 +39,12 @@ void Print2DArray(int[,] arrayToPrint)
         Console.WriteLine();
     }
 }
+int[,] matrixA = GetRandom2dArray(3, 3, 10);
+int[,] matrixB = GetRandom2dArray(3, 3, 10);
+Print2DArray(matrixA);
+System.Console.WriteLine();
+Print2DArray(matrixB);
+System.Console.WriteLine(); 
 
 int[,] matrixMultiplication(int[,] matrix1, int[,] matrix2)
 {
